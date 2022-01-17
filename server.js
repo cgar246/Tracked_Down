@@ -18,7 +18,7 @@ function promptMenu () {
     {
         type: "list",
         name: "options",
-        message: "Welcome to employee tracker! Please select an option below to get started.",
+        message: "Please select an option below to get started.",
         choices: [
             {
                 name: "View all departments",
